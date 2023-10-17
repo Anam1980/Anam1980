@@ -29,7 +29,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anam1980&show_icons=true&count_private=true&hide_border=true&title_color=FAD02E&icon_color=FAD02E&text_color=c9d1d9&bg_color=0d1117" alt="Anam Sheikh GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anam1980&hide_border=true&background=0D1117&stroke=FAD02E&ring=FAD02E&fire=FAD02E&currStreakLabel=FAD02E&sideNums=FAD02E&sideLabels=FAD02E&dates=FFFFFF&currStreakNum=FAD02E" alt="GitHub Streak Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anam1980&hide_border=true&background=0D1117&stroke=FAD02E&ring=FAD02E&fire=FAD02E&currStreakLabel=FAD02E&sideNums=FAD02E&sideLabels=FAD02E&dates=FFFFFF&currStreakNum=FAD09E" alt="GitHub Streak Stats"/>
 </p>
 
 <h2 align="center">🌟 Connect with Me</h2>
