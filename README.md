@@ -37,10 +37,11 @@
 <h2 align="center">🌱 Currently Studying</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apache-kafka&labelColor=000000&logoColor=ffffff"/>&nbsp;
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&labelColor=DC382D&logoColor=ffffff"/>&nbsp;
-  <img src="https://img.shields.io/badge/Spring%20Security-28A745?style=for-the-badge&logo=spring&labelColor=28A745&logoColor=ffffff"/>&nbsp;
-  <img src="https://img.shields.io/badge/Microservices-4DB6AC?style=for-the-badge&labelColor=4DB6AC&logoColor=ffffff"/>&nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&labelColor=000000&logoColor=ffffff"/>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-DC382D?style=for-the-badge&logo=docker&labelColor=DC382D&logoColor=ffffff"/>&nbsp;
+  <img src="https://img.shields.io/badge/Kotlin-28A745?style=for-the-badge&logo=kotlin&labelColor=28A745&logoColor=ffffff"/>&nbsp;
+  <img src="https://img.shields.io/badge/Html%20CSS%20JS-4DB6AC?style=for-the-badge&labelColor=4DB6AC&logoColor=ffffff"/>&nbsp;
+ <img src="https://img.shields.io/badge/React-C71A36?style=for-the-badge&logo=react&labelColor=C71A36&logoColor=ffffff"/>&nbsp;
 </p>
 
 <h2 align="center">📈 GitHub Stats</h2>
