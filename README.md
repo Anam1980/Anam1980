@@ -1,7 +1,9 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </div>
-
+<p align="center">
+  <a href="https://github.com/doocs/leetcode"><img src="https://fastly.jsdelivr.net/gh/doocs/leetcode@main/images/leetcode-doocs.png" alt="LeetCode-GitHub"></a>
+</p>
 <h1 align="center">Hello there! I'm Anam Sheikh 👋</h1>
 
 <p align="center">A passionate Java Backend Developer from India</p>
