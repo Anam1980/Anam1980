@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/REST%20API-FF8A65?style=for-the-badge&labelColor=FF8A65&logoColor=ffffff"/>&nbsp;
   <img src="https://img.shields.io/badge/Hibernate%20JPA-59666C?style=for-the-badge&labelColor=59666C&logoColor=ffffff"/>&nbsp;
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&labelColor=25A162&logoColor=ffffff"/>&nbsp;
-  <img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apache-kafka&labelColor=000000&logoColor=ffffff"/>&nbsp;
+  <img src="https://img.shields.io/badge/Mockito-F8DC75?style=for-the-badge&logo=mockito&labelColor=F8DC75&logoColor=ffffff"/>&nbsp;
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apache-kafka&labelColor=000000&logoColor=ffffff"/>&nbsp
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&labelColor=DC382D&logoColor=ffffff"/>&nbsp;
   <img src="https://img.shields.io/badge/Lombok-1B6AC6?style=for-the-badge&logo=lombok&labelColor=1B6AC6&logoColor=ffffff"/>&nbsp;
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&labelColor=000000&logoColor=ffffff"/>&nbsp;
