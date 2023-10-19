@@ -4,6 +4,9 @@
 <h1 align="center">Hello People! I'm Anam Sheikh 👋</h1>
 
 <p align="center">A passionate Java Backend Developer from India</p>
+<p align="center">HACTOBERANAUT</p>
+
+![An image of @anam1980's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anam1980)
 
 <h2 align="center">🚀 Main Technologies & Tools</h2>
 
