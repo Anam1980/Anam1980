@@ -34,18 +34,20 @@
   <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&labelColor=007396&logoColor=ffffff"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&labelColor=007396&logoColor=ffffff"/>&nbsp;
   <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-007396?style=for-the-badge&labelColor=007396&logoColor=ffffff"/>&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&labelColor=000000&logoColor=ffffff"/>&nbsp;
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-007396?style=for-the-badge&logo=code&logo=labelColor=007396&logoColor=ffffff"/>&nbsp;
 </p>
 
 <h2 align="center">🌱 Currently Studying</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&labelColor=000000&logoColor=ffffff"/>&nbsp;
+<!---<p align="center">
+ // <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&labelColor=000000&logoColor=ffffff"/>&nbsp;
   <img src="https://img.shields.io/badge/Docker-DC382D?style=for-the-badge&logo=docker&labelColor=DC382D&logoColor=ffffff"/>&nbsp;
   <img src="https://img.shields.io/badge/Kotlin-28A745?style=for-the-badge&logo=kotlin&labelColor=28A745&logoColor=ffffff"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-4DB6AC?style=for-the-badge&logo=javascript&labelColor=4DB6AC&logoColor=ffffff"/>&nbsp;
  <img src="https://img.shields.io/badge/React-C71A36?style=for-the-badge&logo=react&labelColor=C71A36&logoColor=ffffff"/>&nbsp;
 </p>
+--->
 
 <h2 align="center">📈 GitHub Stats</h2>
 
