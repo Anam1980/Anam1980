@@ -2,10 +2,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </div>
 
-<h1 align="center">🌟 Hello, I'm <span style="color:#FAD02E;">Anam Sheikh</span> 👋</h1>
-<h3 align="center">Java Backend Developer | Data Analyst | Power BI Developer | Lifelong Learner</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#FAD02E;">Anam Sheikh</span></h1>
+<h3 align="center">Data Analyst | SQL | Excel | Power BI | Python</h3>
 
-<p align="center">💡 Passionate about building impactful solutions using Java, Spring Boot, SQL, Data Analytics & Cloud tools.</p>
+<p align="center">📊 Turning raw data into meaningful insights and impactful dashboards.</p>
 
 <br/>
 
@@ -16,52 +16,31 @@
 
 ---
 
-## 🚀 **Tech Stack & Tools**
-
-### 🧑‍💻 Backend & Programming
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-E57373?style=for-the-badge&logo=java&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/REST%20API-FF8A65?style=for-the-badge&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Mockito-F8DC75?style=for-the-badge&logo=mockito"/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=fff"/>
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff"/>
-</p>
+## 🚀 **Skills & Tools (Data Analyst)**
 
 ### 📊 Data Analytics & BI
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🛠️ Developer Tools
+### 🐍 Python for Data Analysis
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000?style=for-the-badge&logo=intellijidea&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white"/>
 </p>
 
----
-
-## 🌱 Currently Exploring
+### 🛠️ Other Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -93,6 +72,3 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
-
-
-
