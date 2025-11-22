@@ -3,11 +3,13 @@
 </div>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#FAD02E;">Anam Sheikh</span></h1>
-<h3 align="center">Data Analyst | SQL | Excel | Power BI | Python</h3>
+<h3 align="center">Data Analyst | SQL | Excel | Power BI | Python | Java </h3>
 
 <p align="center">📊 Turning raw data into meaningful insights and impactful dashboards.</p>
 
 <br/>
+
+---
 
 ## 🎖️ Holopin Badges
 <p align="center">
@@ -36,12 +38,20 @@
   <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white"/>
 </p>
 
-### 🛠️ Other Tools
+### 🛠️ Other Tools & Tech
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
+
+---
+
+## ✨ About Me (Short Intro)
+💡 I am a **data analyst** skilled in converting raw data into meaningful insights using Excel, SQL, Python, and Power BI.  
+✨ I also have **basic experience in Java & Spring Boot, DSA**, which helps me understand technical systems and structured data workflows.  
+🎯 My work focuses on making data simple, actionable, and business-ready.
 
 ---
 
@@ -72,3 +82,4 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
+
